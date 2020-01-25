@@ -1,0 +1,4 @@
+#Tue May 07 14:32:18 EEST 2019
+base.0=/Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

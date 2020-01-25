@@ -1,0 +1,17 @@
+import { StyleSheet } from 'react-native';
+import { ApplicationStyles } from '../../../Themes';
+import colors from '../../../Themes/Colors';
+import width from '../../../utils/width.util';
+
+export default StyleSheet.create({
+  ...ApplicationStyles.screen,
+  item: {
+    width: width['80'],
+    height: 92,
+    backgroundColor: 'white',
+    borderRadius: 15,
+    marginTop: 15,
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+});

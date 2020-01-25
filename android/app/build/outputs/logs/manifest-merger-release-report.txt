@@ -1,0 +1,207 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-svg] /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-config] /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/node_modules/react-native-config/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.3] /Users/macbook/.gradle/caches/transforms-1/files-1.1/react-native-0.59.3.aar/5743f36c02bc0798ea1474ff131e5474/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d48be1d4b1f820ca5d2943bad7d21571/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d772d3675e31ba43924c0c4daa6ce82b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/bfbc9438a9bc0360ac50a97e96a009c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/760baf2a11a2360ad35365dc4490e77a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3736751ec7be79fb8ffd358a079e15a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e7114ae379c413345cfc9540141f2184/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/0948dad1831eaaabe417ce3beecbec66/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ec831076c44b33f6cc997ecf9df4b722/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b4589353facc3f96e7dcee1eab588d3b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/1f03b785e9e35f9614c4be5c7059541d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/eb2ae76a1d3efa9888e97fdf2774e29a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/20cca81a8c13b2904ada115f70e201fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/951f2660a944e18a267726be3989a86d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0d4508a5d3cce65bcd749944007b6e03/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8e1d0a4bdfb51d4ccb39d3fcc9b8169b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/1bc235fc051ea1b49bc49603522f7f6a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0321d36c05fed72c5341dfea658b6f6c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/macbook/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ea538dd390c1c9ae96d26e2936a3da5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8eff44b9c4d41102e188fc6ca2deda75/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d7249469372e0282c51e4d90e0eb6cba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/414cf641d94c807a57960998b6ff5120/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/macbook/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7f3caf06da3b8ace64b546063cbdfa9f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/macbook/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3768e819c4e794348d5f83dc9a632424/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/macbook/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/1c21f7cceff1fca12e88cfeaf6aca52e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/macbook/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a4646cbfd5418dff6520c078a81e79c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/37309d20152d3dc133b6b552dc98cc55/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/31e5f7ba1814b5340c139039339c8b10/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f7e0e3bab58be65945f0ad093b7b1435/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/3f0fd9fae8091115c74c26f75a64900e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/771b7c7b708f6763258f578edbc50e46/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/478c4d11a0e9ab21b075a59a2ce8fac8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/32966c0470a7774a184561c96c1eeb58/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/abaa591d8cf457c792a31cda59b240ed/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:5:22-76
+application
+ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:7:5-25:19
+MERGED from [com.facebook.react:react-native:0.59.3] /Users/macbook/.gradle/caches/transforms-1/files-1.1/react-native-0.59.3.aar/5743f36c02bc0798ea1474ff131e5474/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.3] /Users/macbook/.gradle/caches/transforms-1/files-1.1/react-native-0.59.3.aar/5743f36c02bc0798ea1474ff131e5474/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8e1d0a4bdfb51d4ccb39d3fcc9b8169b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8e1d0a4bdfb51d4ccb39d3fcc9b8169b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/1bc235fc051ea1b49bc49603522f7f6a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/1bc235fc051ea1b49bc49603522f7f6a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/32966c0470a7774a184561c96c1eeb58/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/32966c0470a7774a184561c96c1eeb58/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8e1d0a4bdfb51d4ccb39d3fcc9b8169b/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:roundIcon
+		ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:11:7-52
+	android:icon
+		ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.medicinemobapp.MainActivity
+ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-svg] /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-config] /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/node_modules/react-native-config/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-config] /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/node_modules/react-native-config/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.3] /Users/macbook/.gradle/caches/transforms-1/files-1.1/react-native-0.59.3.aar/5743f36c02bc0798ea1474ff131e5474/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.3] /Users/macbook/.gradle/caches/transforms-1/files-1.1/react-native-0.59.3.aar/5743f36c02bc0798ea1474ff131e5474/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d48be1d4b1f820ca5d2943bad7d21571/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d48be1d4b1f820ca5d2943bad7d21571/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d772d3675e31ba43924c0c4daa6ce82b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d772d3675e31ba43924c0c4daa6ce82b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/bfbc9438a9bc0360ac50a97e96a009c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/bfbc9438a9bc0360ac50a97e96a009c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/760baf2a11a2360ad35365dc4490e77a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/760baf2a11a2360ad35365dc4490e77a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3736751ec7be79fb8ffd358a079e15a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3736751ec7be79fb8ffd358a079e15a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e7114ae379c413345cfc9540141f2184/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e7114ae379c413345cfc9540141f2184/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/0948dad1831eaaabe417ce3beecbec66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/0948dad1831eaaabe417ce3beecbec66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ec831076c44b33f6cc997ecf9df4b722/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ec831076c44b33f6cc997ecf9df4b722/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b4589353facc3f96e7dcee1eab588d3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b4589353facc3f96e7dcee1eab588d3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/1f03b785e9e35f9614c4be5c7059541d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/1f03b785e9e35f9614c4be5c7059541d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/eb2ae76a1d3efa9888e97fdf2774e29a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/eb2ae76a1d3efa9888e97fdf2774e29a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/20cca81a8c13b2904ada115f70e201fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/20cca81a8c13b2904ada115f70e201fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/951f2660a944e18a267726be3989a86d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/951f2660a944e18a267726be3989a86d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0d4508a5d3cce65bcd749944007b6e03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0d4508a5d3cce65bcd749944007b6e03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8e1d0a4bdfb51d4ccb39d3fcc9b8169b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8e1d0a4bdfb51d4ccb39d3fcc9b8169b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/1bc235fc051ea1b49bc49603522f7f6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/1bc235fc051ea1b49bc49603522f7f6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0321d36c05fed72c5341dfea658b6f6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0321d36c05fed72c5341dfea658b6f6c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/macbook/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ea538dd390c1c9ae96d26e2936a3da5d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/macbook/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ea538dd390c1c9ae96d26e2936a3da5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8eff44b9c4d41102e188fc6ca2deda75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8eff44b9c4d41102e188fc6ca2deda75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d7249469372e0282c51e4d90e0eb6cba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d7249469372e0282c51e4d90e0eb6cba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/414cf641d94c807a57960998b6ff5120/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/414cf641d94c807a57960998b6ff5120/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/macbook/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7f3caf06da3b8ace64b546063cbdfa9f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/macbook/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7f3caf06da3b8ace64b546063cbdfa9f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/macbook/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3768e819c4e794348d5f83dc9a632424/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/macbook/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3768e819c4e794348d5f83dc9a632424/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/macbook/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/1c21f7cceff1fca12e88cfeaf6aca52e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/macbook/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/1c21f7cceff1fca12e88cfeaf6aca52e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/macbook/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a4646cbfd5418dff6520c078a81e79c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/macbook/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a4646cbfd5418dff6520c078a81e79c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/37309d20152d3dc133b6b552dc98cc55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/37309d20152d3dc133b6b552dc98cc55/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/31e5f7ba1814b5340c139039339c8b10/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/31e5f7ba1814b5340c139039339c8b10/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f7e0e3bab58be65945f0ad093b7b1435/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f7e0e3bab58be65945f0ad093b7b1435/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/3f0fd9fae8091115c74c26f75a64900e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/3f0fd9fae8091115c74c26f75a64900e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/771b7c7b708f6763258f578edbc50e46/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/771b7c7b708f6763258f578edbc50e46/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/478c4d11a0e9ab21b075a59a2ce8fac8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/478c4d11a0e9ab21b075a59a2ce8fac8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/32966c0470a7774a184561c96c1eeb58/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/32966c0470a7774a184561c96c1eeb58/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/abaa591d8cf457c792a31cda59b240ed/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/abaa591d8cf457c792a31cda59b240ed/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook/Work/projects/react-native/jupser/medicineMobApp/android/app/src/main/AndroidManifest.xml

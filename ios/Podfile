@@ -1,0 +1,30 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'medicineMobApp' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for medicineMobApp
+
+  target 'medicineMobApp-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+    pod 'RNSVG', :path => '../node_modules/react-native-svg'
+
+  end
+
+  target 'medicineMobAppTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
+
+target 'medicineMobApp-tvOS' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for medicineMobApp-tvOS
+
+end
